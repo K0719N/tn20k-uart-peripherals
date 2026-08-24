@@ -1,0 +1,9 @@
+# build outputs
+*.json
+*.fs
+*.log
+*.vcd
+*.out
+
+# editor
+.vscode/
